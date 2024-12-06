@@ -13,4 +13,10 @@
     position: absolute;
     width: 50%;
     height:auto;
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    box-shadow: 5px;
+    overflow: hidden;
+    background: wheat;
 }
